@@ -30,6 +30,6 @@ Este proyecto utiliza las siguientes librerías de Python:
 
 - Es necesario actualizar las rutas de archivos e importaciones de clases según el entorno para poder ejecutar los scripts correctamente.
 
-## Autora
+## Autor
 
 Desarrollado por Ana Marcos Rubio en su Trabajo de Fin de Máster.
